@@ -1,0 +1,10 @@
+But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born.
+I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.
+Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.
+To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it?
+Передаем строку в фаил...
+Но я должен объяснить вам, как родилась вся эта ошибочная идея осуждения удовольствия и восхваления боли.
+Я дам вам полный отчет о системе и изложу действительные учения великого исследователя истины, мастера-строителя человеческого разума. счастье.
+Никто не отвергает, не любит и не избегает самого удовольствия не потому, что оно есть удовольствие, а потому, что те, кто не знает, как разумно добиваться удовольствия, сталкиваются с крайне болезненными последствиями.
+Кроме того, нет никого, кто любит, преследует или желает получить боль саму по себе, потому что это боль, а потому, что иногда случаются обстоятельства, при которых труд и боль могут доставить ему большое удовольствие.
+Возьмем тривиальный пример: кто из нас когда-либо предпринимал тяжелые физические упражнения, кроме как для получения от них какой-либо пользы?

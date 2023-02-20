@@ -1,9 +1,8 @@
-package prac6;
+package prac6.ex1;
 
 public class Client extends Human {
 
     private String bankName;
-
 
     @Override
     public void getAllInfo() {

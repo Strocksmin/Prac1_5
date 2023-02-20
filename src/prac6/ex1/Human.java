@@ -1,4 +1,4 @@
-package prac6;
+package prac6.ex1;
 
 public abstract class Human {
     private String name;
@@ -12,7 +12,7 @@ public abstract class Human {
         return lastname;
     }
 
-    public void getAllInfo() {
+    public void getAllInfo() {  // Вывод имени и фамилии
         System.out.println(getName() + ' ' + getLastname());
     }
 
